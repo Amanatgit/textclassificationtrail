@@ -1,0 +1,299 @@
+This is pdfTeX, Version 3.1415926-2.5-1.40.14 (TeX Live 2013/Debian) (format=pdflatex 2014.5.28)  9 MAY 2016 12:04
+entering extended mode
+ restricted \write18 enabled.
+ %&-line parsing enabled.
+**Report_tf-idf(09-05-2016).tex
+(./Report_tf-idf(09-05-2016).tex
+LaTeX2e <2011/06/27>
+Babel <3.9h> and hyphenation patterns for 62 languages loaded.
+(/usr/share/texlive/texmf-dist/tex/latex/base/article.cls
+Document Class: article 2007/10/19 v1.4h Standard LaTeX document class
+(/usr/share/texlive/texmf-dist/tex/latex/base/size10.clo
+File: size10.clo 2007/10/19 v1.4h Standard LaTeX file (size option)
+)
+\c@part=\count79
+\c@section=\count80
+\c@subsection=\count81
+\c@subsubsection=\count82
+\c@paragraph=\count83
+\c@subparagraph=\count84
+\c@figure=\count85
+\c@table=\count86
+\abovecaptionskip=\skip41
+\belowcaptionskip=\skip42
+\bibindent=\dimen102
+)
+(/usr/share/texlive/texmf-dist/tex/latex/graphics/graphicx.sty
+Package: graphicx 1999/02/16 v1.0f Enhanced LaTeX Graphics (DPC,SPQR)
+
+(/usr/share/texlive/texmf-dist/tex/latex/graphics/keyval.sty
+Package: keyval 1999/03/16 v1.13 key=value parser (DPC)
+\KV@toks@=\toks14
+)
+(/usr/share/texlive/texmf-dist/tex/latex/graphics/graphics.sty
+Package: graphics 2009/02/05 v1.0o Standard LaTeX Graphics (DPC,SPQR)
+
+(/usr/share/texlive/texmf-dist/tex/latex/graphics/trig.sty
+Package: trig 1999/03/16 v1.09 sin cos tan (DPC)
+)
+(/usr/share/texlive/texmf-dist/tex/latex/latexconfig/graphics.cfg
+File: graphics.cfg 2010/04/23 v1.9 graphics configuration of TeX Live
+)
+Package graphics Info: Driver file: pdftex.def on input line 91.
+
+(/usr/share/texlive/texmf-dist/tex/latex/pdftex-def/pdftex.def
+File: pdftex.def 2011/05/27 v0.06d Graphics/color for pdfTeX
+
+(/usr/share/texlive/texmf-dist/tex/generic/oberdiek/infwarerr.sty
+Package: infwarerr 2010/04/08 v1.3 Providing info/warning/error messages (HO)
+)
+(/usr/share/texlive/texmf-dist/tex/generic/oberdiek/ltxcmds.sty
+Package: ltxcmds 2011/11/09 v1.22 LaTeX kernel commands for general use (HO)
+)
+\Gread@gobject=\count87
+))
+\Gin@req@height=\dimen103
+\Gin@req@width=\dimen104
+)
+(/usr/share/texlive/texmf-dist/tex/latex/amsmath/amsmath.sty
+Package: amsmath 2013/01/14 v2.14 AMS math features
+\@mathmargin=\skip43
+
+For additional information on amsmath, use the `?' option.
+(/usr/share/texlive/texmf-dist/tex/latex/amsmath/amstext.sty
+Package: amstext 2000/06/29 v2.01
+
+(/usr/share/texlive/texmf-dist/tex/latex/amsmath/amsgen.sty
+File: amsgen.sty 1999/11/30 v2.0
+\@emptytoks=\toks15
+\ex@=\dimen105
+))
+(/usr/share/texlive/texmf-dist/tex/latex/amsmath/amsbsy.sty
+Package: amsbsy 1999/11/29 v1.2d
+\pmbraise@=\dimen106
+)
+(/usr/share/texlive/texmf-dist/tex/latex/amsmath/amsopn.sty
+Package: amsopn 1999/12/14 v2.01 operator names
+)
+\inf@bad=\count88
+LaTeX Info: Redefining \frac on input line 210.
+\uproot@=\count89
+\leftroot@=\count90
+LaTeX Info: Redefining \overline on input line 306.
+\classnum@=\count91
+\DOTSCASE@=\count92
+LaTeX Info: Redefining \ldots on input line 378.
+LaTeX Info: Redefining \dots on input line 381.
+LaTeX Info: Redefining \cdots on input line 466.
+\Mathstrutbox@=\box26
+\strutbox@=\box27
+\big@size=\dimen107
+LaTeX Font Info:    Redeclaring font encoding OML on input line 566.
+LaTeX Font Info:    Redeclaring font encoding OMS on input line 567.
+\macc@depth=\count93
+\c@MaxMatrixCols=\count94
+\dotsspace@=\muskip10
+\c@parentequation=\count95
+\dspbrk@lvl=\count96
+\tag@help=\toks16
+\row@=\count97
+\column@=\count98
+\maxfields@=\count99
+\andhelp@=\toks17
+\eqnshift@=\dimen108
+\alignsep@=\dimen109
+\tagshift@=\dimen110
+\tagwidth@=\dimen111
+\totwidth@=\dimen112
+\lineht@=\dimen113
+\@envbody=\toks18
+\multlinegap=\skip44
+\multlinetaggap=\skip45
+\mathdisplay@stack=\toks19
+LaTeX Info: Redefining \[ on input line 2665.
+LaTeX Info: Redefining \] on input line 2666.
+)
+(/usr/share/texlive/texmf-dist/tex/latex/fancyhdr/fancyhdr.sty
+\fancy@headwidth=\skip46
+\f@ncyO@elh=\skip47
+\f@ncyO@erh=\skip48
+\f@ncyO@olh=\skip49
+\f@ncyO@orh=\skip50
+\f@ncyO@elf=\skip51
+\f@ncyO@erf=\skip52
+\f@ncyO@olf=\skip53
+\f@ncyO@orf=\skip54
+)
+(./Report_tf-idf(09-05-2016).aux)
+\openout1 = `Report_tf-idf(09-05-2016).aux'.
+
+LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 20.
+LaTeX Font Info:    ... okay on input line 20.
+LaTeX Font Info:    Checking defaults for T1/cmr/m/n on input line 20.
+LaTeX Font Info:    ... okay on input line 20.
+LaTeX Font Info:    Checking defaults for OT1/cmr/m/n on input line 20.
+LaTeX Font Info:    ... okay on input line 20.
+LaTeX Font Info:    Checking defaults for OMS/cmsy/m/n on input line 20.
+LaTeX Font Info:    ... okay on input line 20.
+LaTeX Font Info:    Checking defaults for OMX/cmex/m/n on input line 20.
+LaTeX Font Info:    ... okay on input line 20.
+LaTeX Font Info:    Checking defaults for U/cmr/m/n on input line 20.
+LaTeX Font Info:    ... okay on input line 20.
+
+(/usr/share/texlive/texmf-dist/tex/context/base/supp-pdf.mkii
+[Loading MPS to PDF converter (version 2006.09.02).]
+\scratchcounter=\count100
+\scratchdimen=\dimen114
+\scratchbox=\box28
+\nofMPsegments=\count101
+\nofMParguments=\count102
+\everyMPshowfont=\toks20
+\MPscratchCnt=\count103
+\MPscratchDim=\dimen115
+\MPnumerator=\count104
+\makeMPintoPDFobject=\count105
+\everyMPtoPDFconversion=\toks21
+) (/usr/share/texlive/texmf-dist/tex/generic/oberdiek/pdftexcmds.sty
+Package: pdftexcmds 2011/11/29 v0.20 Utility functions of pdfTeX for LuaTeX (HO
+)
+
+(/usr/share/texlive/texmf-dist/tex/generic/oberdiek/ifluatex.sty
+Package: ifluatex 2010/03/01 v1.3 Provides the ifluatex switch (HO)
+Package ifluatex Info: LuaTeX not detected.
+)
+(/usr/share/texlive/texmf-dist/tex/generic/oberdiek/ifpdf.sty
+Package: ifpdf 2011/01/30 v2.3 Provides the ifpdf switch (HO)
+Package ifpdf Info: pdfTeX in PDF mode is detected.
+)
+Package pdftexcmds Info: LuaTeX not detected.
+Package pdftexcmds Info: \pdf@primitive is available.
+Package pdftexcmds Info: \pdf@ifprimitive is available.
+Package pdftexcmds Info: \pdfdraftmode found.
+)
+(/usr/share/texlive/texmf-dist/tex/latex/oberdiek/epstopdf-base.sty
+Package: epstopdf-base 2010/02/09 v2.5 Base part for package epstopdf
+
+(/usr/share/texlive/texmf-dist/tex/latex/oberdiek/grfext.sty
+Package: grfext 2010/08/19 v1.1 Manage graphics extensions (HO)
+
+(/usr/share/texlive/texmf-dist/tex/generic/oberdiek/kvdefinekeys.sty
+Package: kvdefinekeys 2011/04/07 v1.3 Define keys (HO)
+))
+(/usr/share/texlive/texmf-dist/tex/latex/oberdiek/kvoptions.sty
+Package: kvoptions 2011/06/30 v3.11 Key value format for package options (HO)
+
+(/usr/share/texlive/texmf-dist/tex/generic/oberdiek/kvsetkeys.sty
+Package: kvsetkeys 2012/04/25 v1.16 Key value parser (HO)
+
+(/usr/share/texlive/texmf-dist/tex/generic/oberdiek/etexcmds.sty
+Package: etexcmds 2011/02/16 v1.5 Avoid name clashes with e-TeX commands (HO)
+Package etexcmds Info: Could not find \expanded.
+(etexcmds)             That can mean that you are not using pdfTeX 1.50 or
+(etexcmds)             that some package has redefined \expanded.
+(etexcmds)             In the latter case, load this package earlier.
+)))
+Package grfext Info: Graphics extension search list:
+(grfext)             [.png,.pdf,.jpg,.mps,.jpeg,.jbig2,.jb2,.PNG,.PDF,.JPG,.JPE
+G,.JBIG2,.JB2,.eps]
+(grfext)             \AppendGraphicsExtensions on input line 452.
+
+(/usr/share/texlive/texmf-dist/tex/latex/latexconfig/epstopdf-sys.cfg
+File: epstopdf-sys.cfg 2010/07/13 v1.3 Configuration of (r)epstopdf for TeX Liv
+e
+))
+[1
+
+{/var/lib/texmf/fonts/map/pdftex/updmap/pdftex.map}]
+<tf_idf_pos1.png, id=9, 736.7525pt x 864.22874pt>
+File: tf_idf_pos1.png Graphic file (type png)
+ <use tf_idf_pos1.png>
+Package pdftex.def Info: tf_idf_pos1.png used on input line 38.
+(pdftex.def)             Requested size: 276.00105pt x 323.7553pt.
+
+<tf_idf_pos2.png, id=11, 731.73375pt x 654.445pt>
+File: tf_idf_pos2.png Graphic file (type png)
+ <use tf_idf_pos2.png>
+Package pdftex.def Info: tf_idf_pos2.png used on input line 39.
+(pdftex.def)             Requested size: 276.00105pt x 246.84427pt.
+
+[2] [3 <./tf_idf_pos1.png>] <tf_idf_pos3.png, id=21, 770.88pt x 480.79625pt>
+File: tf_idf_pos3.png Graphic file (type png)
+
+<use tf_idf_pos3.png>
+Package pdftex.def Info: tf_idf_pos3.png used on input line 42.
+(pdftex.def)             Requested size: 276.00105pt x 172.14012pt.
+
+<tf_idf_posusingsentence.png, id=22, 769.87625pt x 687.56876pt>
+File: tf_idf_posusingsentence.png Graphic file (type png)
+
+<use tf_idf_posusingsentence.png>
+Package pdftex.def Info: tf_idf_posusingsentence.png used on input line 45.
+(pdftex.def)             Requested size: 276.00105pt x 246.4964pt.
+ [4 <./tf_idf_pos2.png> <./tf_idf_pos3.png>]
+<tf_idf_posusingsentenceplot.png, id=28, 769.87625pt x 490.83376pt>
+File: tf_idf_posusingsentenceplot.png Graphic file (type png)
+
+<use tf_idf_posusingsentenceplot.png>
+Package pdftex.def Info: tf_idf_posusingsentenceplot.png used on input line 48.
+
+(pdftex.def)             Requested size: 276.00105pt x 175.96603pt.
+
+Underfull \hbox (badness 10000) in paragraph at lines 48--49
+
+ []
+
+<tf_idf_neg1.png, id=29, 728.7225pt x 864.22874pt>
+File: tf_idf_neg1.png Graphic file (type png)
+ <use tf_idf_neg1.png>
+Package pdftex.def Info: tf_idf_neg1.png used on input line 51.
+(pdftex.def)             Requested size: 276.00105pt x 327.31581pt.
+
+<tf_idf_neg2.png, id=30, 736.7525pt x 847.165pt>
+File: tf_idf_neg2.png Graphic file (type png)
+ <use tf_idf_neg2.png>
+Package pdftex.def Info: tf_idf_neg2.png used on input line 52.
+(pdftex.def)             Requested size: 276.00105pt x 317.36292pt.
+ [5 <./tf_idf_posusingsentence.png> <./tf_idf_posusingsentenceplot.png>] [6 <./
+tf_idf_neg1.png>] <tf_idf_neg3.png, id=40, 775.89874pt x 474.77374pt>
+File: tf_idf_neg3.png Graphic file (type png)
+
+<use tf_idf_neg3.png>
+Package pdftex.def Info: tf_idf_neg3.png used on input line 55.
+(pdftex.def)             Requested size: 276.00105pt x 168.88997pt.
+
+<tf_idf_neg_usingsentence1.png, id=41, 740.7675pt x 864.22874pt>
+File: tf_idf_neg_usingsentence1.png Graphic file (type png)
+
+<use tf_idf_neg_usingsentence1.png>
+Package pdftex.def Info: tf_idf_neg_usingsentence1.png used on input line 58.
+(pdftex.def)             Requested size: 276.00105pt x 322.00142pt.
+ [7 <./tf_idf_neg2.png> <./tf_idf_neg3.png>] <tf_idf_neg_usingsentence2.png, id
+=48, 734.745pt x 846.16125pt>
+File: tf_idf_neg_usingsentence2.png Graphic file (type png)
+
+<use tf_idf_neg_usingsentence2.png>
+Package pdftex.def Info: tf_idf_neg_usingsentence2.png used on input line 61.
+(pdftex.def)             Requested size: 276.00105pt x 317.85197pt.
+ [8 <./tf_idf_neg_usingsentence1.png>]
+[9 <./tf_idf_neg_usingsentence2.png>] (./Report_tf-idf(09-05-2016).aux) ) 
+Here is how much of TeX's memory you used:
+ 2265 strings out of 493411
+ 30666 string characters out of 6143765
+ 90135 words of memory out of 5000000
+ 5677 multiletter control sequences out of 15000+600000
+ 8715 words of font info for 32 fonts, out of 8000000 for 9000
+ 935 hyphenation exceptions out of 8191
+ 38i,10n,43p,283b,192s stack positions out of 5000i,500n,10000p,200000b,80000s
+</usr/
+share/texlive/texmf-dist/fonts/type1/public/amsfonts/cm/cmbx12.pfb></usr/share/
+texlive/texmf-dist/fonts/type1/public/amsfonts/cm/cmmi10.pfb></usr/share/texliv
+e/texmf-dist/fonts/type1/public/amsfonts/cm/cmr10.pfb></usr/share/texlive/texmf
+-dist/fonts/type1/public/amsfonts/cm/cmr12.pfb></usr/share/texlive/texmf-dist/f
+onts/type1/public/amsfonts/cm/cmr17.pfb>
+Output written on Report_tf-idf(09-05-2016).pdf (9 pages, 1016828 bytes).
+PDF statistics:
+ 75 PDF objects out of 1000 (max. 8388607)
+ 38 compressed objects within 1 object stream
+ 0 named destinations out of 1000 (max. 500000)
+ 51 words of extra memory for PDF output out of 10000 (max. 10000000)
+

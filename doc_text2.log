@@ -1,0 +1,346 @@
+This is pdfTeX, Version 3.1415926-2.5-1.40.14 (TeX Live 2013/Debian) (format=pdflatex 2014.5.28)  13 MAY 2016 10:30
+entering extended mode
+ restricted \write18 enabled.
+ %&-line parsing enabled.
+**doc_text2.tex
+(./doc_text2.tex
+LaTeX2e <2011/06/27>
+Babel <3.9h> and hyphenation patterns for 62 languages loaded.
+(/usr/share/texlive/texmf-dist/tex/latex/base/article.cls
+Document Class: article 2007/10/19 v1.4h Standard LaTeX document class
+(/usr/share/texlive/texmf-dist/tex/latex/base/size10.clo
+File: size10.clo 2007/10/19 v1.4h Standard LaTeX file (size option)
+)
+\c@part=\count79
+\c@section=\count80
+\c@subsection=\count81
+\c@subsubsection=\count82
+\c@paragraph=\count83
+\c@subparagraph=\count84
+\c@figure=\count85
+\c@table=\count86
+\abovecaptionskip=\skip41
+\belowcaptionskip=\skip42
+\bibindent=\dimen102
+)
+(/usr/share/texlive/texmf-dist/tex/latex/graphics/graphicx.sty
+Package: graphicx 1999/02/16 v1.0f Enhanced LaTeX Graphics (DPC,SPQR)
+
+(/usr/share/texlive/texmf-dist/tex/latex/graphics/keyval.sty
+Package: keyval 1999/03/16 v1.13 key=value parser (DPC)
+\KV@toks@=\toks14
+)
+(/usr/share/texlive/texmf-dist/tex/latex/graphics/graphics.sty
+Package: graphics 2009/02/05 v1.0o Standard LaTeX Graphics (DPC,SPQR)
+
+(/usr/share/texlive/texmf-dist/tex/latex/graphics/trig.sty
+Package: trig 1999/03/16 v1.09 sin cos tan (DPC)
+)
+(/usr/share/texlive/texmf-dist/tex/latex/latexconfig/graphics.cfg
+File: graphics.cfg 2010/04/23 v1.9 graphics configuration of TeX Live
+)
+Package graphics Info: Driver file: pdftex.def on input line 91.
+
+(/usr/share/texlive/texmf-dist/tex/latex/pdftex-def/pdftex.def
+File: pdftex.def 2011/05/27 v0.06d Graphics/color for pdfTeX
+
+(/usr/share/texlive/texmf-dist/tex/generic/oberdiek/infwarerr.sty
+Package: infwarerr 2010/04/08 v1.3 Providing info/warning/error messages (HO)
+)
+(/usr/share/texlive/texmf-dist/tex/generic/oberdiek/ltxcmds.sty
+Package: ltxcmds 2011/11/09 v1.22 LaTeX kernel commands for general use (HO)
+)
+\Gread@gobject=\count87
+))
+\Gin@req@height=\dimen103
+\Gin@req@width=\dimen104
+)
+(/usr/share/texlive/texmf-dist/tex/latex/amsmath/amsmath.sty
+Package: amsmath 2013/01/14 v2.14 AMS math features
+\@mathmargin=\skip43
+
+For additional information on amsmath, use the `?' option.
+(/usr/share/texlive/texmf-dist/tex/latex/amsmath/amstext.sty
+Package: amstext 2000/06/29 v2.01
+
+(/usr/share/texlive/texmf-dist/tex/latex/amsmath/amsgen.sty
+File: amsgen.sty 1999/11/30 v2.0
+\@emptytoks=\toks15
+\ex@=\dimen105
+))
+(/usr/share/texlive/texmf-dist/tex/latex/amsmath/amsbsy.sty
+Package: amsbsy 1999/11/29 v1.2d
+\pmbraise@=\dimen106
+)
+(/usr/share/texlive/texmf-dist/tex/latex/amsmath/amsopn.sty
+Package: amsopn 1999/12/14 v2.01 operator names
+)
+\inf@bad=\count88
+LaTeX Info: Redefining \frac on input line 210.
+\uproot@=\count89
+\leftroot@=\count90
+LaTeX Info: Redefining \overline on input line 306.
+\classnum@=\count91
+\DOTSCASE@=\count92
+LaTeX Info: Redefining \ldots on input line 378.
+LaTeX Info: Redefining \dots on input line 381.
+LaTeX Info: Redefining \cdots on input line 466.
+\Mathstrutbox@=\box26
+\strutbox@=\box27
+\big@size=\dimen107
+LaTeX Font Info:    Redeclaring font encoding OML on input line 566.
+LaTeX Font Info:    Redeclaring font encoding OMS on input line 567.
+\macc@depth=\count93
+\c@MaxMatrixCols=\count94
+\dotsspace@=\muskip10
+\c@parentequation=\count95
+\dspbrk@lvl=\count96
+\tag@help=\toks16
+\row@=\count97
+\column@=\count98
+\maxfields@=\count99
+\andhelp@=\toks17
+\eqnshift@=\dimen108
+\alignsep@=\dimen109
+\tagshift@=\dimen110
+\tagwidth@=\dimen111
+\totwidth@=\dimen112
+\lineht@=\dimen113
+\@envbody=\toks18
+\multlinegap=\skip44
+\multlinetaggap=\skip45
+\mathdisplay@stack=\toks19
+LaTeX Info: Redefining \[ on input line 2665.
+LaTeX Info: Redefining \] on input line 2666.
+)
+(/usr/share/texlive/texmf-dist/tex/latex/fancyhdr/fancyhdr.sty
+\fancy@headwidth=\skip46
+\f@ncyO@elh=\skip47
+\f@ncyO@erh=\skip48
+\f@ncyO@olh=\skip49
+\f@ncyO@orh=\skip50
+\f@ncyO@elf=\skip51
+\f@ncyO@erf=\skip52
+\f@ncyO@olf=\skip53
+\f@ncyO@orf=\skip54
+)
+(./doc_text2.aux
+
+LaTeX Warning: Label `tab:table1' multiply defined.
+
+)
+\openout1 = `doc_text2.aux'.
+
+LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 20.
+LaTeX Font Info:    ... okay on input line 20.
+LaTeX Font Info:    Checking defaults for T1/cmr/m/n on input line 20.
+LaTeX Font Info:    ... okay on input line 20.
+LaTeX Font Info:    Checking defaults for OT1/cmr/m/n on input line 20.
+LaTeX Font Info:    ... okay on input line 20.
+LaTeX Font Info:    Checking defaults for OMS/cmsy/m/n on input line 20.
+LaTeX Font Info:    ... okay on input line 20.
+LaTeX Font Info:    Checking defaults for OMX/cmex/m/n on input line 20.
+LaTeX Font Info:    ... okay on input line 20.
+LaTeX Font Info:    Checking defaults for U/cmr/m/n on input line 20.
+LaTeX Font Info:    ... okay on input line 20.
+ (/usr/share/texlive/texmf-dist/tex/context/base/supp-pdf.mkii
+[Loading MPS to PDF converter (version 2006.09.02).]
+\scratchcounter=\count100
+\scratchdimen=\dimen114
+\scratchbox=\box28
+\nofMPsegments=\count101
+\nofMParguments=\count102
+\everyMPshowfont=\toks20
+\MPscratchCnt=\count103
+\MPscratchDim=\dimen115
+\MPnumerator=\count104
+\makeMPintoPDFobject=\count105
+\everyMPtoPDFconversion=\toks21
+) (/usr/share/texlive/texmf-dist/tex/generic/oberdiek/pdftexcmds.sty
+Package: pdftexcmds 2011/11/29 v0.20 Utility functions of pdfTeX for LuaTeX (HO
+)
+
+(/usr/share/texlive/texmf-dist/tex/generic/oberdiek/ifluatex.sty
+Package: ifluatex 2010/03/01 v1.3 Provides the ifluatex switch (HO)
+Package ifluatex Info: LuaTeX not detected.
+)
+(/usr/share/texlive/texmf-dist/tex/generic/oberdiek/ifpdf.sty
+Package: ifpdf 2011/01/30 v2.3 Provides the ifpdf switch (HO)
+Package ifpdf Info: pdfTeX in PDF mode is detected.
+)
+Package pdftexcmds Info: LuaTeX not detected.
+Package pdftexcmds Info: \pdf@primitive is available.
+Package pdftexcmds Info: \pdf@ifprimitive is available.
+Package pdftexcmds Info: \pdfdraftmode found.
+)
+(/usr/share/texlive/texmf-dist/tex/latex/oberdiek/epstopdf-base.sty
+Package: epstopdf-base 2010/02/09 v2.5 Base part for package epstopdf
+
+(/usr/share/texlive/texmf-dist/tex/latex/oberdiek/grfext.sty
+Package: grfext 2010/08/19 v1.1 Manage graphics extensions (HO)
+
+(/usr/share/texlive/texmf-dist/tex/generic/oberdiek/kvdefinekeys.sty
+Package: kvdefinekeys 2011/04/07 v1.3 Define keys (HO)
+))
+(/usr/share/texlive/texmf-dist/tex/latex/oberdiek/kvoptions.sty
+Package: kvoptions 2011/06/30 v3.11 Key value format for package options (HO)
+
+(/usr/share/texlive/texmf-dist/tex/generic/oberdiek/kvsetkeys.sty
+Package: kvsetkeys 2012/04/25 v1.16 Key value parser (HO)
+
+(/usr/share/texlive/texmf-dist/tex/generic/oberdiek/etexcmds.sty
+Package: etexcmds 2011/02/16 v1.5 Avoid name clashes with e-TeX commands (HO)
+Package etexcmds Info: Could not find \expanded.
+(etexcmds)             That can mean that you are not using pdfTeX 1.50 or
+(etexcmds)             that some package has redefined \expanded.
+(etexcmds)             In the latter case, load this package earlier.
+)))
+Package grfext Info: Graphics extension search list:
+(grfext)             [.png,.pdf,.jpg,.mps,.jpeg,.jbig2,.jb2,.PNG,.PDF,.JPG,.JPE
+G,.JBIG2,.JB2,.eps]
+(grfext)             \AppendGraphicsExtensions on input line 452.
+
+(/usr/share/texlive/texmf-dist/tex/latex/latexconfig/epstopdf-sys.cfg
+File: epstopdf-sys.cfg 2010/07/13 v1.3 Configuration of (r)epstopdf for TeX Liv
+e
+))
+[1
+
+{/var/lib/texmf/fonts/map/pdftex/updmap/pdftex.map}]
+Overfull \hbox (11.36179pt too wide) in paragraph at lines 24--26
+\OT1/cmr/m/n/10 the fol-low-ing fig-ures show the vi-su-al-iza-tion of both Pom
+pe dis-eases and Amytrophic
+ []
+
+! Extra alignment tab has been changed to \cr.
+<recently read> \endtemplate 
+                             
+l.36       & positive & negative&
+                                  negative\\
+You have given more \span or & marks than there were
+in the preamble to the \halign or \valign now in progress.
+So I'll assume that you meant to type \cr instead.
+
+[2] <freqPosit.png, id=13, 787.94376pt x 357.335pt>
+File: freqPosit.png Graphic file (type png)
+ <use freqPosit.png>
+Package pdftex.def Info: freqPosit.png used on input line 60.
+(pdftex.def)             Requested size: 276.00105pt x 125.16727pt.
+
+<freqneg.png, id=15, 674.52pt x 353.32pt>
+File: freqneg.png Graphic file (type png)
+ <use freqneg.png>
+Package pdftex.def Info: freqneg.png used on input line 63.
+(pdftex.def)             Requested size: 276.00105pt x 144.571pt.
+
+<Amytrophic1.png, id=16, 736.7525pt x 506.89375pt>
+File: Amytrophic1.png Graphic file (type png)
+ <use Amytrophic1.png>
+Package pdftex.def Info: Amytrophic1.png used on input line 65.
+(pdftex.def)             Requested size: 276.00105pt x 189.89133pt.
+
+Underfull \hbox (badness 10000) in paragraph at lines 63--66
+
+ []
+
+[3 <./freqPosit.png> <./freqneg.png>]
+<Amytrophic2.png, id=22, 1025.8325pt x 795.97375pt>
+File: Amytrophic2.png Graphic file (type png)
+ <use Amytrophic2.png>
+Package pdftex.def Info: Amytrophic2.png used on input line 69.
+(pdftex.def)             Requested size: 276.00105pt x 214.15062pt.
+
+<Amytrophic3.png, id=23, 339.2675pt x 425.59pt>
+File: Amytrophic3.png Graphic file (type png)
+ <use Amytrophic3.png>
+Package pdftex.def Info: Amytrophic3.png used on input line 74.
+(pdftex.def)             Requested size: 276.00105pt x 346.23909pt.
+ [4 <./Amytrophic1.png> <./Amytrophic2.png>]
+<Amytrophic4.png, id=29, 645.41125pt x 350.30875pt>
+File: Amytrophic4.png Graphic file (type png)
+ <use Amytrophic4.png>
+Package pdftex.def Info: Amytrophic4.png used on input line 77.
+(pdftex.def)             Requested size: 276.00105pt x 149.8013pt.
+
+[5 <./Amytrophic3.png> <./Amytrophic4.png>]
+<Amytrophic5.png, id=35, 1180.41pt x 878.28125pt>
+File: Amytrophic5.png Graphic file (type png)
+ <use Amytrophic5.png>
+Package pdftex.def Info: Amytrophic5.png used on input line 80.
+(pdftex.def)             Requested size: 276.00105pt x 205.3508pt.
+
+<Amytrophic6.png, id=36, 1181.41376pt x 842.14626pt>
+File: Amytrophic6.png Graphic file (type png)
+ <use Amytrophic6.png>
+Package pdftex.def Info: Amytrophic6.png used on input line 81.
+(pdftex.def)             Requested size: 276.00105pt x 196.73503pt.
+
+Underfull \hbox (badness 10000) in paragraph at lines 80--82
+
+ []
+
+[6 <./Amytrophic5.png> <./Amytrophic6.png>]
+<Amytrophic7.png, id=42, 1646.15pt x 990.70125pt>
+File: Amytrophic7.png Graphic file (type png)
+ <use Amytrophic7.png>
+Package pdftex.def Info: Amytrophic7.png used on input line 85.
+(pdftex.def)             Requested size: 276.00105pt x 166.1041pt.
+
+Underfull \hbox (badness 10000) in paragraph at lines 85--86
+
+ []
+
+<GRpos.png, id=43, 724.7075pt x 482.80376pt>
+File: GRpos.png Graphic file (type png)
+ <use GRpos.png>
+Package pdftex.def Info: GRpos.png used on input line 89.
+(pdftex.def)             Requested size: 276.00105pt x 183.87251pt.
+
+<GRneg.png, id=44, 726.715pt x 473.77pt>
+File: GRneg.png Graphic file (type png)
+ <use GRneg.png>
+Package pdftex.def Info: GRneg.png used on input line 90.
+(pdftex.def)             Requested size: 276.00105pt x 179.94049pt.
+
+Underfull \hbox (badness 10000) in paragraph at lines 89--91
+
+ []
+
+[7 <./Amytrophic7.png> <./GRpos.png>]
+<Korpus1.png, id=51, 838.13126pt x 465.74pt> [8 <./GRneg.png>]
+File: Korpus1.png Graphic file (type png)
+
+<use Korpus1.png>
+Package pdftex.def Info: Korpus1.png used on input line 105.
+(pdftex.def)             Requested size: 276.00105pt x 153.36777pt.
+ <korpus2.png, id=57, 716.6775pt x 522.95375pt>
+File: korpus2.png Graphic file (type png)
+
+<use korpus2.png>
+Package pdftex.def Info: korpus2.png used on input line 108.
+(pdftex.def)             Requested size: 276.00105pt x 201.39766pt.
+ [9 <./Korpus1.png> <./korpus2.png>] (./doc_text2.aux)
+
+LaTeX Warning: There were multiply-defined labels.
+
+ ) 
+Here is how much of TeX's memory you used:
+ 2282 strings out of 493411
+ 30412 string characters out of 6143765
+ 91182 words of memory out of 5000000
+ 5691 multiletter control sequences out of 15000+600000
+ 8715 words of font info for 32 fonts, out of 8000000 for 9000
+ 935 hyphenation exceptions out of 8191
+ 38i,11n,43p,626b,267s stack positions out of 5000i,500n,10000p,200000b,80000s
+</usr/share/texlive/texmf-dist/fonts/type1/public/amsfonts/cm/cmbx12.pfb></us
+r/share/texlive/texmf-dist/fonts/type1/public/amsfonts/cm/cmmi10.pfb></usr/shar
+e/texlive/texmf-dist/fonts/type1/public/amsfonts/cm/cmr10.pfb></usr/share/texli
+ve/texmf-dist/fonts/type1/public/amsfonts/cm/cmr12.pfb></usr/share/texlive/texm
+f-dist/fonts/type1/public/amsfonts/cm/cmr17.pfb>
+Output written on doc_text2.pdf (9 pages, 499832 bytes).
+PDF statistics:
+ 81 PDF objects out of 1000 (max. 8388607)
+ 38 compressed objects within 1 object stream
+ 0 named destinations out of 1000 (max. 500000)
+ 66 words of extra memory for PDF output out of 10000 (max. 10000000)
+

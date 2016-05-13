@@ -1,0 +1,141 @@
+<td class='article_id'>27055517</td>
+<td class='article_title' rowspan='2'>Pompe Disease: Diagnosis and Management. Evidence-Based Guidelines from a Canadian Expert Panel.</td>
+</tr>
+<tr>
+<td class='article_date'>2016/4/8</td>
+</tr>
+<tr>
+<td class='article_abstract' colspan='2'>
+<span class='disease'>Pompe disease</span> is a lysosomal storage disorder caused by a deficiency of the enzyme acid alpha-glucosidase. Patients have skeletal muscle and respiratory <span class='symptom'>weakness</span> with or without <span class='symptom'>cardiomyopathy</span>. The objective of our review was to systematically evaluate the quality of evidence from the literature to formulate evidence-based guidelines for the diagnosis and management of patients with <span class='disease'>Pompe disease</span>. The literature review was conducted using published literature, clinical trials, cohort studies and systematic reviews. Cardinal treatment decisions produced seven management guidelines and were assigned a GRADE classification based on the quality of evidence in the published literature. In addition, six recommendations were made based on best clinical practices but with insufficient data to form a guideline. Studying outcomes in rare diseases is challenging due to the small number of patients, but this is in particular the reason why we believe that informed treatment decisions need to consider the quality of the evidence.⚫
+</td>
+</tr>
+</table>
+</br><table class='article'>
+<tr>
+<td class='article_id'>27050503</td>
+<td class='article_title' rowspan='2'>Production and characterization of recombinant human acid α-glucosidase in transgenic rice cell suspension culture.</td>
+</tr>
+<tr>
+<td class='article_date'>2016/4/15</td>
+</tr>
+<tr>
+<td class='article_abstract' colspan='2'>
+<span class='disease'>Pompe disease</span> is a fatal genetic muscle disorder caused by a deficiency of acid α-glucosidase (<span class='gene'>GAA</span>), a glycogen-degrading lysosomal enzyme. In this study, the human <span class='gene'>GAA</span> cDNA gene was synthesized from human placenta cells and cloned into a plant expression vector under the control of the rice α-amylase 3D (RAmy3D) promoter. The plant expression vector was introduced into rice calli (Oryza sativa L. cv. Dongjin) mediated by Agrobacterium tumefaciens. Genomic DNA PCR and Northern blot analysis were used to determine the integration and mRNA expression of the hGAA gene in the putative transgenic rice cells. SDS-PAGE and Western blot analysis showed that the glycosylated precursor recombinant hGAA had a molecular mass of 110kDa due to the presence of seven N-glycosylation sites. The accumulation of hGAA protein in the culture medium was approximately 37mg/L after 11 days of culturing in a sugar depletion medium. The His tagged-hGAA protein was purified using an Ni-NTA column and confirmed as the precursor form of hGAA without the signal peptide encoded by the cDNA on the N-terminal amino acid sequence. The acid alpha-glucosidase activity of hGAA produced in transgenic rice cells gave results similar to those of the enzyme produced by CHO cells.⚫
+</td>
+</tr>
+</table>
+</br><table class='article'>
+<tr>
+<td class='article_id'>27040830</td>
+<td class='article_title' rowspan='2'>Amplitude-aware permutation entropy: Illustration in spike detection and signal segmentation.</td>
+</tr>
+<tr>
+<td class='article_date'>2016/04/04</td>
+</tr>
+<tr>
+<td class='article_abstract' colspan='2'>
+Signal segmentation and spike detection are two important biomedical signal processing applications. Often, non-stationary signals must be segmented into piece-wise stationary epochs or spikes need to be found among a background of noise before being further analyzed. Permutation entropy (PE) has been proposed to evaluate the irregularity of a time series. PE is conceptually simple, structurally robust to artifacts, and computationally fast. It has been extensively used in many applications, but it has two key shortcomings. First, when a signal is symbolized using the Bandt-Pompe procedure, only the order of the amplitude values is considered and information regarding the amplitudes is discarded. Second, in the PE, the effect of equal amplitude values in each embedded vector is not addressed. To address these issues, we propose a new entropy measure based on PE: the amplitude-aware permutation entropy (AAPE).AAPE is sensitive to the changes in the amplitude, in addition to the frequency, of the signals thanks to it being more flexible than the classical PE in the quantification of the signal motifs. To demonstrate how the AAPE method can enhance the quality of the signal segmentation and spike detection, a set of synthetic and realistic synthetic neuronal signals, electroencephalograms and neuronal data are processed. We compare the performance of AAPE in these problems against state-of-the-art approaches and evaluate the significance of the differences with a repeated ANOVA with post hoc Tukey's test.In signal segmentation, the accuracy of AAPE-based method is higher than conventional segmentation methods. AAPE also leads to more robust results in the presence of noise. The spike detection results show that AAPE can detect spikes well, even when presented with single-sample spikes, unlike PE. For multi-sample spikes, the changes in AAPE are larger than in PE.We introduce a new entropy metric, AAPE, that enables us to consider amplitude information in the formulation of PE. The AAPE algorithm can be used in almost every irregularity-based application in various signal and image processing fields. We also made freely available the Matlab code of the AAPE.⚫
+</td>
+</tr>
+</table>
+</br><table class='article'>
+<tr>
+<td class='article_id'>27039993</td>
+<td class='article_title' rowspan='2'>Reevaluating Muscle Biopsies in the Diagnosis of Pompe Disease: A Corroborative Report.</td>
+</tr>
+<tr>
+<td class='article_date'>2016/4/4</td>
+</tr>
+<tr>
+<td class='article_abstract' colspan='2'>
+Previous reports suggest that although a diagnostic muscle biopsy can confirm the presence of <span class='disease'>Pompe disease</span>, the absence of a definitive biopsy result does not rule out the diagnosis.In this study, we reviewed patients with a limb-girdle syndrome who demonstrated nonspecific abnormalities of muscle, without evidence of the classical changes of acid maltase deficiency. These patients were rescreened for <span class='disease'>Pompe disease</span> using dried blood spot (DBS) testing.Twenty-seven patients provided blood samples for the DBS test. Four patients underwent subsequent genetic testing. Genetic analysis demonstrated that one patient tested positive for <span class='disease'>Pompe disease</span> and one patient had one copy of a pathogenic variant.In conclusion, the ability of a diagnostic muscle biopsy to definitively rule out the presence of <span class='disease'>Pompe disease</span> is limited. There is a role for a screening DBS in all patients presenting with a limb-girdle syndrome without a clear diagnosis.⚫
+</td>
+</tr>
+</table>
+</br><table class='article'>
+<tr>
+<td class='article_id'>27022891</td>
+<td class='article_title' rowspan='2'>Human-induced pluripotent stem cell approaches to model inborn and acquired metabolic heart diseases.</td>
+</tr>
+<tr>
+<td class='article_date'>2016/04/07</td>
+</tr>
+<tr>
+<td class='article_abstract' colspan='2'>
+The article provides an overview of advances in the induced pluripotent stem cell field to model cardiomyopathies of inherited inborn errors of metabolism and acquired metabolic syndromes in vitro.Several inborn errors of metabolism have been studied using 'disease in a dish' models, including <span class='disease'>Pompe disease</span>, <span class='disease'>Danon disease</span>, <span class='disease'>Fabry disease</span>, and <span class='disease'>Barth syndrome</span>. Disease phenotypes of complex metabolic syndromes, such as <span class='symptom'>diabetes mellitus</span> and aldehyde dehydrogenase 2 deficiency, have also been observed.Differentiation of patient and disease-specific induced pluripotent stem cell-derived cardiomyocytes has provided the capacity to model deleterious cardiometabolic diseases to understand molecular mechanisms, perform drug screens, and identify novel drug targets.⚫
+</td>
+</tr>
+</table>
+</br><table class='article'>
+<tr>
+<td class='article_id'>27017193</td>
+<td class='article_title' rowspan='2'>Salmeterol enhances the cardiac response to gene therapy in Pompe disease.</td>
+</tr>
+<tr>
+<td class='article_date'>2016/04/13</td>
+</tr>
+<tr>
+<td class='article_abstract' colspan='2'>
+Enzyme replacement therapy (ERT) with recombinant human (rh) acid α-glucosidase (<span class='gene'>GAA</span>) has prolonged the survival of patients. However, the paucity of cation-independent mannose-6-phosphate receptor (CI-MPR) in skeletal muscle, where it is needed to take up rhGAA, correlated with a poor response to ERT by muscle in <span class='disease'>Pompe disease</span>. Clenbuterol, a selective β2 receptor agonist, enhanced the CI-MPR expression in striated muscle through Igf-1 mediated <span class='symptom'>muscle hypertrophy</span>, which correlated with increased CI-MPR (also the Igf-2 receptor) expression. In this study we have evaluated 4 new drugs in <span class='gene'>GAA</span> knockout (KO) mice in combination with an adeno-associated virus (AAV) vector encoding human <span class='gene'>GAA</span>, 3 alternative β2 agonists and dehydroepiandrosterone (DHEA). Mice were injected with AAV2/9-CBhGAA (1E+11 vector particles) at a dose that was not effective at clearing glycogen storage from the heart. Heart <span class='gene'>GAA</span> activity was significantly increased by either salmeterol (p<0.01) or DHEA (p<0.05), in comparison with untreated mice. Furthermore, glycogen content was reduced in the heart by treatment with DHEA (p<0.001), salmeterol (p<0.05), formoterol (p<0.01), or clenbuterol (p<0.01) in combination with the AAV vector, in comparison with untreated GAA-KO mice. Wirehang testing revealed that salmeterol and the AAV vector significantly increased performance, in comparison with the AAV vector alone (p<0.001). Similarly, salmeterol with the vector increased performance significantly more than any of the other drugs. The most effective individual drugs had no significant effect in absence of vector, in comparison with untreated mice. Thus, salmeterol should be further developed as adjunctive therapy in combination with either ERT or gene therapy for <span class='disease'>Pompe disease</span>.⚫
+</td>
+</tr>
+</table>
+</br><table class='article'>
+<tr>
+<td class='article_id'>27008195</td>
+<td class='article_title' rowspan='2'>Inherited Metabolic Disorders: Efficacy of Enzyme Assays on Dried Blood Spots for the Diagnosis of Lysosomal Storage Disorders.</td>
+</tr>
+<tr>
+<td class='article_date'>2016/3/23</td>
+</tr>
+<tr>
+<td class='article_abstract' colspan='2'>
+High consanguinity rates, poor access to accurate diagnostic tests, and costly therapies are the main causes of increased burden of lysosomal storage disorders (LSDs) in developing countries. Therefore, there is a major unmet need for accurate and economical diagnostic tests to facilitate diagnosis and consideration of therapies before irreversible complications occur. In cross-country study, we utilized dried blood spots (DBS) of 1,033 patients clinically suspected to harbor LSDs for enzymatic diagnosis using modified fluorometric assays from March 2013 through May 2015. Results were validated by demonstrating reproducibility, testing in different sample types (leukocytes/plasma/skin fibroblast), mutation study, or measuring specific biomarkers. Thirty percent (307/1,033) were confirmed to have one of the LSDs tested. Reference intervals established unambiguously identified affected patients. Correlation of DBS results with other biological samples (n = 172) and mutation studies (n = 74) demonstrated 100% concordance in Gaucher, Fabry, Tay Sachs, Sandhoff, Niemann-Pick, GM1, <span class='disease'>Neuronal ceroid lipofuscinosis</span> (<span class='disease'>NCL</span>), <span class='disease'>Fucosidosis</span>, Mannosidosis, Mucopolysaccharidosis (MPS) II, IIIb, IVa, VI, VII, and I-Cell diseases, and 91.4% and 88% concordance in Pompe and MPS-I, respectively. Gaucher and Pompe are the most common LSDs in India and Pakistan, followed by MPS-I in both India and Sri Lanka. Study demonstrates utility of DBS for reliable diagnosis of LSDs. Diagnostic accuracy (97.6%) confirms veracity of enzyme assays. Adoption of DBS will overcome significant hurdles in blood sample transportation from remote regions. DBS enzymatic and molecular diagnosis should become the standard of care for LSDs to make timely diagnosis, develop personalized treatment/monitoring plan, and facilitate genetic counseling.⚫
+</td>
+</tr>
+</table>
+</br><table class='article'>
+<tr>
+<td class='article_id'>27006351</td>
+<td class='article_title' rowspan='2'>Blunted Hypercapnic Respiratory Drive Response in Subjects With Late-Onset Pompe Disease.</td>
+</tr>
+<tr>
+<td class='article_date'>2016/3/23</td>
+</tr>
+<tr>
+<td class='article_abstract' colspan='2'>
+Patients with late-onset <span class='disease'>Pompe disease</span> develop progressive hypercapnic <span class='symptom'>respiratory failure</span> that can be disproportionate to the respiratory muscle compromise and/or thoracic restriction. Although recent studies have reported the presence of a blunted hypercapnic respiratory response in some subjects with neuromuscular disorders and chronic <span class='symptom'>hypercapnia</span>, no study has evaluated the integrity of the respiratory drive in subjects with late-onset <span class='disease'>Pompe disease</span>. Thus, we endeavor to determine the CO2 rebreathing response in subjects with late-onset <span class='disease'>Pompe disease</span>.Respiratory muscle strength was assessed by measuring the maximum inspiratory pressure, and the maximum expiratory pressure. The maximum inspiratory pressure reflects the strength of the diaphragm and other inspiratory muscles, whereas the maximum expiratory pressure reflects the strength of the abdominal muscles and other expiratory muscles. We studied the hypercapnic drive response (measured as the ratio of the change in airway-occlusion pressure 0.1 s after the start of inspiration and end-tidal PCO2 in 13 subjects with late-onset <span class='disease'>Pompe disease</span> and 51 healthy controls.Overall inspiratory muscle strength was within normal limits or slightly diminished in the late-onset <span class='disease'>Pompe disease</span> group. Five subjects (38.5%) were chronically hypercapnic, and 9 (69.2%) had an increased breath-holding time. Compared with controls, the change in airway-occlusion pressure 0.1 s/change in end-tidal CO2 pressure slope (hypercapnic respiratory drive) was lower in the late-onset <span class='disease'>Pompe disease</span> group (median 0.050 [interquartile range 0.027-0.118] vs 0.183 [0.153-0.233], P < .001). Nine subjects (69.2%) had a blunted change in airway-occlusion pressure 0.1 s/change in end-tidal carbon dioxide pressure slope.Subjects with late-onset <span class='disease'>Pompe disease</span> had an impaired hypercapnic respiratory drive response. The clinical <span class='gene'>impact</span> of this phenomenon in this subject subset deserves further investigation.⚫
+</td>
+</tr>
+</table>
+</br><table class='article'>
+<tr>
+<td class='article_id'>26957320</td>
+<td class='article_title' rowspan='2'>Diagnostic support for selected neuromuscular diseases using answer-pattern recognition and data mining techniques: a proof of concept multicenter prospective trial.</td>
+</tr>
+<tr>
+<td class='article_date'>2016/03/09</td>
+</tr>
+<tr>
+<td class='article_abstract' colspan='2'>
+Diagnosis of neuromuscular diseases in primary care is often challenging. Rare diseases such as <span class='disease'>Pompe disease</span> are easily overlooked by the general practitioner. We therefore aimed to develop a diagnostic support tool using patient-oriented questions and combined data mining algorithms recognizing answer patterns in individuals with selected neuromuscular diseases. A multicenter prospective study for the proof of concept was conducted thereafter.First, 16 interviews with patients were conducted focusing on their pre-diagnostic observations and experiences. From these interviews, we developed a questionnaire with 46 items. Then, patients with diagnosed neuromuscular diseases as well as patients without such a disease answered the questionnaire to establish a database for data mining. For proof of concept, initially only six diagnoses were chosen (myotonic dystrophy and <span class='symptom'>myotonia</span> (MdMy), <span class='disease'>Pompe disease</span> (MP), <span class='disease'>amyotrophic lateral sclerosis</span> (<span class='disease'>ALS</span>), <span class='symptom'>polyneuropathy</span> (<span class='gene'>PNP</span>), <span class='symptom'>spinal muscular atrophy</span> (<span class='disease'>SMA</span>), other neuromuscular diseases, and no neuromuscular disease (NND). A prospective study was performed to validate the automated malleable system, which included six different classification methods combined in a fusion algorithm proposing a final diagnosis. Finally, new diagnoses were incorporated into the system.In total, questionnaires from 210 individuals were used to train the system. 89.5 % correct diagnoses were achieved during cross-validation. The sensitivity of the system was 93-97 % for individuals with MP, with MdMy and without neuromuscular diseases, but only 69 % in <span class='disease'>SMA</span> and 81 % in <span class='disease'>ALS</span> patients. In the prospective trial, 57/64 (89 %) diagnoses were predicted correctly by the computerized system. All questions, or rather all answers, increased the diagnostic accuracy of the system, with the best results reached by the fusion of different classifier methods. Receiver operating curve (ROC) and p-value analyses confirmed the results.A questionnaire-based diagnostic support tool using data mining methods exhibited good results in predicting selected neuromuscular diseases. Due to the variety of neuromuscular diseases, additional studies are required to measure beneficial effects in the clinical setting.⚫
+</td>
+</tr>
+</table>
+</br><table class='article'>
+<tr>
+<td class='article_id'>26946079</td>
+<td class='article_title' rowspan='2'>Combination of two different homozygote mutations in Pompe disease.</td>
+</tr>
+<tr>
+<td class='article_date'>2016/03/07</td>
+</tr>
+<tr>
+<td class='article_abstract' colspan='2'>
+<span class='disease'>Pompe disease</span> (OMIM no 232300) is an autosomal recessive inherited metabolic disorder, caused by glycogen accumulation in the lysosome due to deficiency of the lysosomal acid 03B1-glucosidase enzyme. Here we report the case of an 8-month-old girl of consanguineous Turkish parents, who was diagnosed with the infantile form of <span class='disease'>Pompe disease</span>. Two different uncommon homozygote mutations (c.32-13 T > G homozygote and c.1856G > A homozygote) were detected. The patient had a more progressive clinical course than expected. We emphasize the rare combination of genetic mutations in this Turkish family with <span class='disease'>Pompe disease</span>.⚫
+</td>
+</tr>
+</table>
+</br>	</body>
+</html>
+

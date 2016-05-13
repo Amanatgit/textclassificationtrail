@@ -1,0 +1,38 @@
+<td class='sentence'>
+27006351_0	JJ	<unknown>
+:	:	:
+Patients	NNS	patient
+with	IN	with
+late-onset	NN	late-onset
+<span class='disease'>
+Pompe	NN	<unknown>
+disease	NN	disease
+</span>
+develop	VB	develop
+progressive	JJ	progressive
+hypercapnic	JJ	<unknown>
+<span class='symptom'>
+respiratory	JJ	respiratory
+failure	NN	failure
+</span>
+that	WDT	that
+can	MD	can
+be	VB	be
+disproportionate	JJ	disproportionate
+to	TO	to
+the	DT	the
+respiratory	JJ	respiratory
+muscle	NN	muscle
+compromise	NN	compromise
+and/or	CC	and/or
+thoracic	JJ	thoracic
+restriction	NN	restriction
+.	SENT	.
+espiratory	JJ	respiratory
+muscle	NN	muscle
+compromise	NN	compromise
+and/or	CC	and/or
+thoracic	JJ	thoracic
+restriction	NN	restriction
+.	SENT	.
+</td>
